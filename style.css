@@ -7,3 +7,10 @@
     background-color: #797979; /* Warna latar */
     color: white; /* Warna font */
 }
+
+/* ### POSITIONING ### */
+.positioning-container {
+    position: relative; /* Referensi untuk elemen yang posisinya absolut */
+    height: 100px;
+    border: 2px solid #aaa;
+}
