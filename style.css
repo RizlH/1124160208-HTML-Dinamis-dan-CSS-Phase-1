@@ -1,0 +1,9 @@
+/* ### BOX MODEL ### */
+.box-model {
+    width: 250px; /* Lebar konten */
+    padding: 30px; /* Ruang dalam elemen */
+    border: 5px solid #000000; /* Garis tepi */
+    margin: 30px; /* Jarak luar antar elemen */
+    background-color: #797979; /* Warna latar */
+    color: white; /* Warna font */
+}
